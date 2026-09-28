@@ -37,10 +37,10 @@ Millions of people in rural India and in low-income urban areas can't get reliab
 ## My contribution
 **1. AI design (Generative + Agentic AI)**
 
-\`\`\`
+```
 Understand  →  Classify intent  →  Assess risk  →  Retrieve & simplify  →  Escalate to a human
 (Indic STT)    (symptom/medicine)   (red flags)     (verified sources, GenAI)  (ASHA / doctor)
-\`\`\`
+```
 - **Will:** translate and simplify verified information, guide the next step, send medicine reminders, route people to humans.
 - **Will never:** diagnose, prescribe, replace a clinician, or keep more personal data than it needs.
 
