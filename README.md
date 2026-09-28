@@ -2,7 +2,7 @@
 
 **A voice-first, multilingual health assistant on WhatsApp that helps people who don't read English understand a symptom and find the safe next step.**
 
-Product case study · Capstone for *Product Management with Generative & Agentic AI*, BITS School of Management (BITSoM) · Aug 2025 – Feb 2026 · Team of 4
+Product case study · Capstone for *Product Management with Generative & Agentic AI*, BITS School of Management (BITSoM) · Jul 2025 – Jan 2026 · Team of 4
 
 [![Try the WhatsApp-style prototype](https://img.shields.io/badge/Try%20it-WhatsApp--style%20prototype-25D366?style=for-the-badge)](https://project-swasthya-sahayak.lovable.app/)
 [![Website prototype](https://img.shields.io/badge/Try%20it-Website%20prototype-2a78d6?style=for-the-badge)](https://website-swasthya-sahayak.lovable.app/)
